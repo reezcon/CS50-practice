@@ -4,4 +4,42 @@ Practice code and problem sets from Harvard's CS50P – Introduction to Programm
 
 **About**
 
-This repo tracks my progress through CS50P. I am reinforcing my foundational Python skills (functions, data structures, OOP, file handling, testing) as the first step toward a broader ML/AI engineering learning path.
+This repo tracks my progress through CS50P. I am reinforcing my foundational Python skills (functions, data structures, OOP, file handling, testing) as the first step toward a broader ML/AI engineering learning path. 
+
+| Week | Topic | Status |
+|------|-------|--------|
+| 0 | Functions, Variables | 🔄 In progress |
+| 1 | Conditionals | ⬜ Not started |
+| 2 | Loops | ⬜ Not started |
+| 3 | Exceptions | ⬜ Not started |
+| 4 | Libraries | ⬜ Not started |
+| 5 | Unit Tests | ⬜ Not started |
+| 6 | File I/O | ⬜ Not started |
+| 7 | Regular Expressions | ⬜ Not started |
+| 8 | Object-Oriented Programming | ⬜ Not started |
+| 9 | Et Cetera | ⬜ Not started |
+
+## Structure
+ 
+```
+cs50p-practice/
+├── week0/
+├── week1/
+├── week2/
+├── ...
+└── README.md
+```
+ 
+Each week's folder contains the practice problems and exercises completed for that section.
+
+## How to run
+ 
+Each script can be run directly with Python:
+ 
+```bash
+python week1/example.py
+```
+ 
+## Notes
+ 
+This is learning-in-progress code, not production-quality software — the goal is reinforcing Python fundamentals. However, due to my existing knowledge, I will not be following a strict timeline as seen in the progress.
