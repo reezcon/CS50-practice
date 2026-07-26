@@ -8,8 +8,8 @@ This repo tracks my progress through CS50P. I am reinforcing my foundational Pyt
 
 | Week | Topic | Status |
 |------|-------|--------|
-| 0 | Functions, Variables | 🔄 In progress |
-| 1 | Conditionals | ⬜ Not started |
+| 0 | Functions, Variables | ✅ Done |
+| 1 | Conditionals | 🔄 In progress |
 | 2 | Loops | ⬜ Not started |
 | 3 | Exceptions | ⬜ Not started |
 | 4 | Libraries | ⬜ Not started |
