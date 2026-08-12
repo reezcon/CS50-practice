@@ -11,8 +11,8 @@ This repo tracks my progress through CS50P. I am reinforcing my foundational Pyt
 | 0 | Functions, Variables | ✅ Done |
 | 1 | Conditionals | ✅ Done |
 | 2 | Loops | ✅ Done |
-| 3 | Exceptions | 🔄 In progress  |
-| 4 | Libraries | ⬜ Not started |
+| 3 | Exceptions | ✅ Done |
+| 4 | Libraries | 🔄 In progress |
 | 5 | Unit Tests | ⬜ Not started |
 | 6 | File I/O | ⬜ Not started |
 | 7 | Regular Expressions | ⬜ Not started |
