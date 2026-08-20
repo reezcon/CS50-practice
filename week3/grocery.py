@@ -7,7 +7,7 @@ while True:
             grocery[item] += 1
         else:
             grocery.update({item: 1})
-    except EOFError:
+    except EOFError: # To trigger on Windows: Ctrl D + Enter
         print()
         break
     
