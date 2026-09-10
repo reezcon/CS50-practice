@@ -16,7 +16,7 @@ This repo tracks my progress through CS50P. I am reinforcing my foundational Pyt
 | 5 | Unit Tests | ✅ Done |
 | 6 | File I/O | ✅ Done |
 | 7 | Regular Expressions | 🔄 In progress |
-| 8 | Object-Oriented Programming | ⬜ Not started |
+| 8 | Object-Oriented Programming | 🔄 In progress |
 | 9 | Et Cetera | ⬜ Not started |
 
 ## Structure
