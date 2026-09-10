@@ -4,7 +4,7 @@ Practice code and problem sets from Harvard's CS50P – Introduction to Programm
 
 **About**
 
-This repo tracks my progress through CS50P. I am reinforcing my foundational Python skills (functions, data structures, OOP, file handling, testing) as the first step toward a broader ML/AI engineering learning path. 
+This repo tracks my progress through CS50P. I am reinforcing my foundational Python skills (functions, data structures, OOP, file handling, testing) as the first step toward a backend developer learning path. 
 
 | Week | Topic | Status |
 |------|-------|--------|
@@ -14,8 +14,8 @@ This repo tracks my progress through CS50P. I am reinforcing my foundational Pyt
 | 3 | Exceptions | ✅ Done |
 | 4 | Libraries | ✅ Done |
 | 5 | Unit Tests | ✅ Done |
-| 6 | File I/O | 🔄 In progress |
-| 7 | Regular Expressions | ⬜ Not started |
+| 6 | File I/O | ✅ Done |
+| 7 | Regular Expressions | 🔄 In progress |
 | 8 | Object-Oriented Programming | ⬜ Not started |
 | 9 | Et Cetera | ⬜ Not started |
 
